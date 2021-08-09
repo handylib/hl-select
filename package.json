@@ -1,0 +1,15 @@
+{
+  "name": "hl-select",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "author": {
+    "name": "Vikas Kandari",
+    "email": "ninjadev365@gmail.com"
+  }
+}
